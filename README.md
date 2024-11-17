@@ -8,17 +8,12 @@ Hello, I'm Badr Ibrahim Muhammad !  I am Badr Senior graphic designer with more 
 * 📍: Fayoum
 * 💼: Graphic designer
 
-## 🚀 About Me
-* I am seeking to develop myself to a better level in the field of programming and advertising designs
-* I am currently focusing on my studies in the field of tourism and air hospitality
-* I look forward to a better future and raising my level of inspiration in the fields of programming and hospitality
+## 🎓 Education
+* 🎓: I study at the Higher Institute of Tourism and Hotels, Department (Hospitality Management) 🕛 Study starts in 2022
 
-## 💻 Tech Stack
-[List the technologies and tools you are proficient in. For example:]
-* **Languages:** Python, JavaScript, Java, C++
-* **Frameworks/Libraries:** React, Node.js, Angular, Spring Boot
-* **Databases:** MySQL, PostgreSQL, MongoDB
-* **Tools:** Git, Docker, Kubernetes, AWS
+## 💼 Experiences
+* **Programming:** He has a high level of experience in the field of programming and advertising design
+* **Study-related experiences:** Experience in the field of tourism and hospitality
 
 ## 🌱 Currently Learning
 [Mention any new technologies or skills you are currently learning or exploring.]
