@@ -1,13 +1,11 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋I'm BADR
 
 Hello, I'm Badr Ibrahim Muhammad !  I am Badr Senior graphic designer with more than 5 years of professional experience. I have excellent knowledge of Photoshop and 3D Blender designs. I also worked in the field of programming Android and computer applications in JavaScript and Visual Studio
 
-[Optional: Add a profile picture or GIF of yourself.]
-
 ## 🚀 About Me
-* [Write a brief overview of your interests and skills as a developer.]
-* [Mention your current focus or area of specialization.]
-* [Optional: Include your career goals or aspirations.]
+* I am seeking to develop myself to a better level in the field of programming and advertising designs
+* I am currently focusing on my studies in the field of tourism and air hospitality
+* I look forward to a better future and raising my level of inspiration in the fields of programming and hospitality
 
 ## 💻 Tech Stack
 [List the technologies and tools you are proficient in. For example:]
