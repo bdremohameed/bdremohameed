@@ -22,16 +22,10 @@ Hello, I'm Badr Ibrahim Muhammad !  I am Badr Senior graphic designer with more 
 * Communicate with customers and attract their attention
 
 ## 📫 Connect with Me
-[Provide links to your social media profiles or personal website.]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Twitter:** [Your Twitter Profile URL]
-* **Portfolio:** [Your Portfolio Website URL]
+* **Facebook:** (https://www.facebook.com/profile.php?id=100011623874379)
+* **Twitter:** (https://x.com/bdr_e_mohameed)
+* **instagram:** (https://www.instagram.com/bdr_e_mohamed)
+* **Whatsapp:** (wa.link/9p3ci1)
 
-## ⚡ Fun Fact
+## ✈️
 [Share a fun or interesting fact about yourself.]
-
----
-
-[Optional: Add a section showcasing your GitHub stats.]
-
-[Optional: Add a section for your latest blog posts or contributions.]
