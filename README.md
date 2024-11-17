@@ -26,6 +26,3 @@ Hello, I'm Badr Ibrahim Muhammad !  I am Badr Senior graphic designer with more 
 * **Twitter:** (https://x.com/bdr_e_mohameed)
 * **instagram:** (https://www.instagram.com/bdr_e_mohamed)
 * **Whatsapp:** (wa.link/9p3ci1)
-
-## ✈️
-[Share a fun or interesting fact about yourself.]
