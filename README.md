@@ -6,6 +6,8 @@ Hello, I'm Badr Ibrahim Muhammad !  I am Badr Senior graphic designer with more 
 * 📞: +20 111 216 2908
 * 📧: bdr.e.mohameed@gmail.com
 * 📍: Fayoum
+* 💍: Single
+* 🎂: 01/02/2003
 * 💼: Graphic designer
 
 ## 🎓 Education
