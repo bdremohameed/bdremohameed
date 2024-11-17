@@ -15,8 +15,11 @@ Hello, I'm Badr Ibrahim Muhammad !  I am Badr Senior graphic designer with more 
 * **Programming:** He has a high level of experience in the field of programming and advertising design
 * **Study-related experiences:** Experience in the field of tourism and hospitality
 
-## 🌱 Currently Learning
-[Mention any new technologies or skills you are currently learning or exploring.]
+## 🌱 Skills
+* proficient in using Adobe programs 
+* proficient in using office packages
+* good at working on the computer and performing all tasks with precision and high skill
+* Communicate with customers and attract their attention
 
 ## 📫 Connect with Me
 [Provide links to your social media profiles or personal website.]
