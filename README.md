@@ -2,6 +2,12 @@
 
 Hello, I'm Badr Ibrahim Muhammad !  I am Badr Senior graphic designer with more than 5 years of professional experience. I have excellent knowledge of Photoshop and 3D Blender designs. I also worked in the field of programming Android and computer applications in JavaScript and Visual Studio
 
+## 📞 Contact information
+* 📞: +20 111 216 2908
+* 📧: bdr.e.mohameed@gmail.com
+* 📍: Fayoum
+* 💼: Graphic designer
+
 ## 🚀 About Me
 * I am seeking to develop myself to a better level in the field of programming and advertising designs
 * I am currently focusing on my studies in the field of tourism and air hospitality
