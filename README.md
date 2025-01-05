@@ -1,6 +1,6 @@
 # I'm BADR
 
-Hello, I'm Badr Ibrahim Muhammad !  I am Badr Senior graphic designer with more than 5 years of professional experience. I have excellent knowledge of Photoshop and 3D Blender designs. I also worked in the field of programming Android and computer applications in JavaScript and Visual Studio
+I am Badr, an experienced graphic designer...I have more than 5 years of professional experience. I have excellent knowledge of Photoshop and 3D Blender designs. I also worked in the field of programming Android and computer applications in JavaScript and Visual Studio
 
 ## 📞 Contact information
 * 📞: +20 111 216 2908
