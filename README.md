@@ -1,4 +1,4 @@
-# 👋I'm BADR
+# I'm BADR
 
 Hello, I'm Badr Ibrahim Muhammad !  I am Badr Senior graphic designer with more than 5 years of professional experience. I have excellent knowledge of Photoshop and 3D Blender designs. I also worked in the field of programming Android and computer applications in JavaScript and Visual Studio
 
@@ -11,7 +11,7 @@ Hello, I'm Badr Ibrahim Muhammad !  I am Badr Senior graphic designer with more 
 * 💼: Graphic designer
 
 ## 🎓 Education
-* 🎓: I study at the Higher Institute of Tourism and Hotels, Department (Hospitality Management) 🕛 Study starts in 2022
+* : I study at the Higher Institute of Tourism and Hotels, Department (Hospitality Management) 🕛 Study starts in 2022
 
 ## 💼 Experiences
 * **Programming:** He has a high level of experience in the field of programming and advertising design
