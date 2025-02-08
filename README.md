@@ -14,10 +14,19 @@ A creative graphic designer specializing in designing print and digital advertis
 *  Enrolled: September 2022 - Present
 
 ##  Skills
-### Technical Skills
+### Technical Skills :
 * **Proficient in Adobe Creative Suite** (Photoshop, Illustrator, InDesign, etc.)
 * **Proficient in Microsoft Office Suite** (Word, Excel, PowerPoint, Outlook)
 * **Highly skilled in computer operations and task management.**
+
+### Interpersonal & Communication Skills :
+* Excellent communication and customer interaction skills
+* Proven ability to engage customers and build rapport
+* Strong teamwork and collaboration abilities
+* Adaptable and quick learner 
+* Detail-oriented and committed to delivering high-quality work
+* Creative problem-solver
+
 
 
 ##  Skills
