@@ -10,16 +10,18 @@ A creative graphic designer specializing in designing print and digital advertis
 
 ##  Education
 *  **Higher Institute of Tourism and Hotels** | Fayoum, Egypt - **Bachelor of Hospitality Management** ( Graduation 2025 )
+*  I am currently working on my graduation project (fast food restaurant recipes called Crunch)
 *  Enrolled: September 2022 - Present
 
-##  Experiences
+##  Skills
+# Technical Skills
 * **Graphic Design**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign.
 * **3D Design**: Blender, 3ds Max .
 * **Programming/Web Design**: HTML, CSS, JavaScript.
 * **Microsoft Office Suite**: Word, Excel, PowerPoint, Outlook .
 
 
-## 🌱 Skills
+##  Skills
 * 💡 proficient in using Adobe programs 
 * proficient in using office packages
 * good at working on the computer and performing all tasks with precision and high skill
