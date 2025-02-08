@@ -27,13 +27,24 @@ A creative graphic designer specializing in designing print and digital advertis
 * Detail-oriented and committed to delivering high-quality work
 * Creative problem-solver
 
-
-
-##  Skills
-* 💡 proficient in using Adobe programs 
-* proficient in using office packages
-* good at working on the computer and performing all tasks with precision and high skill
-* Communicate with customers and attract their attention
+##  Courses and Certifications
+### Hotel Marketing and Tourism & Travel Certificates (2 Certificates) 
+* **Awarding Body**: Higher Institute of Tourism and Hotels
+* **Date**: 2025
+* **Note**: As these certifications are from the future, they should either be removed, or the expected date of completion should be clearly stated.
+### Mawadda Program Training
+* **Awarding Body**: Higher Institute of Tourism and Hotels (Under the patronage of President Abdel Fattah El-Sisi)
+* **Date**: 2023
+### Hospitality and Aviation Training Certificate
+* **Awarding Body**: Higher Institute of Tourism and Hotels
+* **Date**: 2022
+### Adobe Photoshop Course
+* **Awarding Body**: Adobe
+* **Date**: 2021
+### Assistant Chef Certificate of Experience
+* **Awarding Body**: Holiday Inn Hotel
+* **Date**: 2019
+* **Note**: Since this is experience and not a course or training, it would ideally be in the "Work Experience" Section, but it can go here .
 
 ## 📫 Connect with Me
 * **Facebook:** (https://www.facebook.com/profile.php?id=100011623874379)
