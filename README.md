@@ -9,9 +9,8 @@ A creative graphic designer specializing in designing print and digital advertis
 *  behance Profile :  https://www.behance.net/bdr_e_mohameed
 
 ##  Education
-*  Higher Institute of Tourism and Hotels | Fayoum, Egypt
-  - Bachelor of Hospitality Management ( Graduation: 2025 )
-  - Enrolled: September 2022 - Present
+*  **Higher Institute of Tourism and Hotels** | Fayoum, Egypt - Bachelor of Hospitality Management ( Graduation 2025 )
+*  Enrolled: September 2022 - Present
 
 ## 💼 Experiences
 * **Programming:** He has a high level of experience in the field of programming and advertising design
