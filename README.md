@@ -14,7 +14,7 @@ A creative graphic designer specializing in designing print and digital advertis
 *  Enrolled: September 2022 - Present
 
 ##  Skills
-# Technical Skills
+### Technical Skills
 * **Graphic Design**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign.
 * **3D Design**: Blender, 3ds Max .
 * **Programming/Web Design**: HTML, CSS, JavaScript.
