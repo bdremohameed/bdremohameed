@@ -15,10 +15,9 @@ A creative graphic designer specializing in designing print and digital advertis
 
 ##  Skills
 ### Technical Skills
-* **Graphic Design**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign.
-* **3D Design**: Blender, 3ds Max .
-* **Programming/Web Design**: HTML, CSS, JavaScript.
-* **Microsoft Office Suite**: Word, Excel, PowerPoint, Outlook .
+* **Proficient in Adobe Creative Suite** (Photoshop, Illustrator, InDesign, etc.)
+* **Proficient in Microsoft Office Suite** (Word, Excel, PowerPoint, Outlook)
+* **Highly skilled in computer operations and task management.**
 
 
 ##  Skills
