@@ -9,12 +9,15 @@ A creative graphic designer specializing in designing print and digital advertis
 *  behance Profile :  https://www.behance.net/bdr_e_mohameed
 
 ##  Education
-*  **Higher Institute of Tourism and Hotels** | Fayoum, Egypt - Bachelor of Hospitality Management ( Graduation 2025 )
+*  **Higher Institute of Tourism and Hotels** | Fayoum, Egypt - **Bachelor of Hospitality Management** ( Graduation 2025 )
 *  Enrolled: September 2022 - Present
 
-## 💼 Experiences
-* **Programming:** He has a high level of experience in the field of programming and advertising design
-* **Study-related experiences:** Experience in the field of tourism and hospitality
+##  Experiences
+* **Graphic Design**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign.
+**3D Design**: Blender, 3ds Max .
+**Programming/Web Design**: HTML, CSS, JavaScript.
+**Microsoft Office Suite**: Word, Excel, PowerPoint, Outlook .
+
 
 ## 🌱 Skills
 * 💡 proficient in using Adobe programs 
