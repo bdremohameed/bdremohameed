@@ -10,7 +10,7 @@ A creative graphic designer specializing in designing print and digital advertis
 
 ##  Education
 *  Higher Institute of Tourism and Hotels | Fayoum, Egypt
-  - Bachelor of Hospitality Management (Expected Graduation: 2025 )
+  - Bachelor of Hospitality Management ( Graduation: 2025 )
   - Enrolled: September 2022 - Present
 
 ## 💼 Experiences
