@@ -3,12 +3,10 @@
 A creative graphic designer specializing in designing print and digital advertising and publicity materials. I have over 3 years of experience in this field, and I am proficient in designing 3D elements that add realism and distinction to designs. In addition to my creative skills, I have in-depth knowledge of Microsoft Office programs, which enables me to manage and organize projects with high efficiency. My extensive experience in the field of computers and their solutions enables me to overcome technical challenges and deliver high-quality designs on time. I am always looking for opportunities to develop my skills and contribute to achieving companies’ goals through attractive and effective designs.
 
 ## 📞 Contact information
-*  +20 111 216 2908
-*  bdr.e.mohameed@gmail.com
-*  Fayoum
-*  Single
-*  01/02/2003
-*  Graphic designer
+*  Mobile: +20 111 216 2908
+*  Email: bdr.e.mohameed@gmail.com
+*  City: Fayoum, Egypt
+*  behance Profile :  https://www.behance.net/bdr_e_mohameed
 
 ## 🎓 Education
 * : I study at the Higher Institute of Tourism and Hotels, Department (Hospitality Management) 🕛 Study starts in 2022
