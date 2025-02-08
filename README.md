@@ -14,9 +14,9 @@ A creative graphic designer specializing in designing print and digital advertis
 
 ##  Experiences
 * **Graphic Design**: Adobe Photoshop, Adobe Illustrator, Adobe InDesign.
-**3D Design**: Blender, 3ds Max .
-**Programming/Web Design**: HTML, CSS, JavaScript.
-**Microsoft Office Suite**: Word, Excel, PowerPoint, Outlook .
+* **3D Design**: Blender, 3ds Max .
+* **Programming/Web Design**: HTML, CSS, JavaScript.
+* **Microsoft Office Suite**: Word, Excel, PowerPoint, Outlook .
 
 
 ## 🌱 Skills
