@@ -46,7 +46,9 @@ the highest standards of hygiene and safety.
 
 ## Education
 ***Bachelor’s Hospitality Management***	10/2022
+
 **Higher Institute of Tourism and Hotels**– 6 October , Egypt
+
 *I am currently working on my graduation project (fast food restaurant recipes called Crunch)*
 
 
