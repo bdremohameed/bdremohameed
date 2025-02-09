@@ -51,16 +51,15 @@ the highest standards of hygiene and safety.
 
 #### Graphic Design and Visual Identity  – Adobe (GDVI)	01/2021 – 02/2022
 
-#### University Hotel Marketing – Higher Institute for Tourism and Hotels (UHM)	12/2024 – 02/2025
+#### University Hotel Marketing – Higher Institute for Tourism and Hotels (UHM)	 *12/2024 – 02/2025*
 
-#### Certificate in Aviation Hospitality – Higher Institute for Tourism and Hotels (CAH)	12/2024 – 02/2025
+#### Certificate in Aviation Hospitality – Higher Institute for Tourism and Hotels (CAH) 	*12/2024 – 02/2025*
 
-#### Certificate in In-Flight Food and Beverage – Higher Institute for Tourism and Hotels (CAH)	2022
+#### Certificate in In-Flight Food and Beverage – Higher Institute for Tourism and Hotels (CAH)	 *2022*
 
-#### Assistant Chef – Holiday Inn (ACHI)	2019
+#### Assistant Chef – Holiday Inn (ACHI)	*2019*
 
-## 📫 Connect with Me
-* **Facebook:** (https://www.facebook.com/profile.php?id=100011623874379)
-* **Twitter:** (https://x.com/bdr_e_mohameed)
-* **instagram:** (https://www.instagram.com/bdr_e_mohamed)
-* **Whatsapp:** (https://wa.link/9p3ci1)
+## Languages
+**Arabic**: Native
+**English**: Secondary language  - *Efficiency is average*
+
