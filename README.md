@@ -24,16 +24,16 @@ A creative graphic designer specializing in designing print and digital advertis
 **Graphic designer**	 01/2021 – 02/2022
 **Best designer course**
 
-### Hotel Marketing and Tourism & Travel – 6 October, Egypt
+#### Hotel Marketing and Tourism & Travel – 6 October, Egypt
 **Junior trainee**	 12/2024 – 02/2025
 As an Intern in the Hotel Marketing Department, I supported various marketing initiatives, including content creation for social media
 and other platforms. I also assisted with market research and analysis to inform marketing strategies.
 
-### Hospitality and Aviation Training  - 6 October, Egypt
+#### Hospitality and Aviation Training  - 6 October, Egypt
 **Junior trainee**	 2022 
 Higher Institute of Tourism and Hotels (HITH) – 6 October , Egypt
 
-### Hotel Assistant Chef  – Tenth District - Nasr City , Egypt
+#### Hotel Assistant Chef  – Tenth District - Nasr City , Egypt
 **Assistant Chef**	2019
 
 Throughout my 3rd to 5th years of hotel secondary school, I progressively developed my culinary skills through an intensive
@@ -41,25 +41,23 @@ internship at Holiday Inn Hotelgained practical experience in all aspects of kit
 the highest standards of hygiene and safety.
 
 
+## Education
+### Bachelor’s Hospitality Management	10/2022
+**Higher Institute of Tourism and Hotels**– 6 October , Egypt
+*I am currently working on my graduation project (fast food restaurant recipes called Crunch)*
 
-##  Courses and Certifications
-### Hotel Marketing and Tourism & Travel Certificates (2 Certificates) 
-* **Awarding Body**: Higher Institute of Tourism and Hotels
-* **Date**: 2025
-* **Note**: As these certifications are from the future, they should either be removed, or the expected date of completion should be clearly stated.
-### Mawadda Program Training
-* **Awarding Body**: Higher Institute of Tourism and Hotels (Under the patronage of President Abdel Fattah El-Sisi)
-* **Date**: 2023
-### Hospitality and Aviation Training Certificate
-* **Awarding Body**: Higher Institute of Tourism and Hotels
-* **Date**: 2022
-### Adobe Photoshop Course
-* **Awarding Body**: Adobe
-* **Date**: 2021
-### Assistant Chef Certificate of Experience
-* **Awarding Body**: Holiday Inn Hotel
-* **Date**: 2019
-* **Note**: Since this is experience and not a course or training, it would ideally be in the "Work Experience" Section, but it can go here .
+
+##  Certifications
+
+#### Graphic Design and Visual Identity  – Adobe (GDVI)	01/2021 – 02/2022
+
+#### University Hotel Marketing – Higher Institute for Tourism and Hotels (UHM)	12/2024 – 02/2025
+
+#### Certificate in Aviation Hospitality – Higher Institute for Tourism and Hotels (CAH)	12/2024 – 02/2025
+
+#### Certificate in In-Flight Food and Beverage – Higher Institute for Tourism and Hotels (CAH)	2022
+
+#### Assistant Chef – Holiday Inn (ACHI)	2019
 
 ## 📫 Connect with Me
 * **Facebook:** (https://www.facebook.com/profile.php?id=100011623874379)
