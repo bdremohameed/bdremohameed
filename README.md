@@ -21,25 +21,24 @@ A creative graphic designer specializing in designing print and digital advertis
 
 ##  Experience
 #### Adobe company - Tenth District - Nasr City , Egypt
-###**Graphic designer**	 01/2021 – 02/2022
+**Graphic designer**	 01/2021 – 02/2022
 **Best designer course**
 
-Hotel Marketing and Tourism & Travel – 6 October, Egypt
-Junior trainee	 12/2024 – 02/2025
+### Hotel Marketing and Tourism & Travel – 6 October, Egypt
+**Junior trainee**	 12/2024 – 02/2025
 As an Intern in the Hotel Marketing Department, I supported various marketing initiatives, including content creation for social media
-and other platforms. I also assisted with market research and analysis
-to inform marketing strategies.
-Hospitality and Aviation Training  - 6 October, Egypt
-Junior trainee	 2022 
+and other platforms. I also assisted with market research and analysis to inform marketing strategies.
 
+### Hospitality and Aviation Training  - 6 October, Egypt
+**Junior trainee**	 2022 
 Higher Institute of Tourism and Hotels (HITH) – 6 October , Egypt
 
+### Hotel Assistant Chef  – Tenth District - Nasr City , Egypt
+**Assistant Chef**	2019
 
-Hotel Assistant Chef  – Tenth District - Nasr City , Egypt
-Assistant Chef	2019
-
-Throughout my 3rd to 5th years of hotel secondary school, I progressively developed my culinary skills through an intensive internship at Holiday Inn Hotelgained practical experience in all aspects of kitchen operations, from basic food preparation to maintaining the highest standards of hygiene and safety.
-
+Throughout my 3rd to 5th years of hotel secondary school, I progressively developed my culinary skills through an intensive
+internship at Holiday Inn Hotelgained practical experience in all aspects of kitchen operations, from basic food preparation to maintaining
+the highest standards of hygiene and safety.
 
 
 
