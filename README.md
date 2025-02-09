@@ -1,6 +1,7 @@
 # Badr Ibrahim Muhammad
-Fayoum , Egypt |  +201112162908   | 
-* Contact & bdr.e.mohameed@gmail.com | www.behance.net/bdr_e_mohameed
+Fayoum , Egypt |  +201112162908   |  
+
+Contact & bdr.e.mohameed@gmail.com | www.behance.net/bdr_e_mohameed
 
 ## Professional Summary
 A creative graphic designer specializing in designing print and digital advertising and publicity materials. I have over 3 years of experience in this field, and I am proficient in designing 3D elements that add realism and distinction to designs. In addition to my creative skills, I have in-depth knowledge of Microsoft Office programs, which enables me to manage and organize projects with high efficiency. My extensive experience in the field of computers and their solutions enables me to overcome technical challenges and deliver high-quality designs on time. I am always looking for opportunities to develop my skills and contribute to achieving companies’ goals through attractive and effective designs.
@@ -20,20 +21,20 @@ A creative graphic designer specializing in designing print and digital advertis
 * Creative problem-solver
 
 ##  Experience
-#### Adobe company - Tenth District - Nasr City , Egypt
+* #### Adobe company - Tenth District - Nasr City , Egypt
 **Graphic designer**	 01/2021 – 02/2022
 **Best designer course**
 
-#### Hotel Marketing and Tourism & Travel – 6 October, Egypt
+* #### Hotel Marketing and Tourism & Travel – 6 October, Egypt
 **Junior trainee**	 12/2024 – 02/2025
 As an Intern in the Hotel Marketing Department, I supported various marketing initiatives, including content creation for social media
 and other platforms. I also assisted with market research and analysis to inform marketing strategies.
 
-#### Hospitality and Aviation Training  - 6 October, Egypt
+* #### Hospitality and Aviation Training  - 6 October, Egypt
 **Junior trainee**	 2022 
 Higher Institute of Tourism and Hotels (HITH) – 6 October , Egypt
 
-#### Hotel Assistant Chef  – Tenth District - Nasr City , Egypt
+* #### Hotel Assistant Chef  – Tenth District - Nasr City , Egypt
 **Assistant Chef**	2019
 
 Throughout my 3rd to 5th years of hotel secondary school, I progressively developed my culinary skills through an intensive
@@ -49,15 +50,15 @@ the highest standards of hygiene and safety.
 
 ##  Certifications
 
-#### Graphic Design and Visual Identity  – Adobe (GDVI)	01/2021 – 02/2022
+* #### Graphic Design and Visual Identity  – Adobe (GDVI)	01/2021 – 02/2022
 
-#### University Hotel Marketing – Higher Institute for Tourism and Hotels (UHM)	 *12/2024 – 02/2025*
+* #### University Hotel Marketing – Higher Institute for Tourism and Hotels (UHM)	 *12/2024 – 02/2025*
 
-#### Certificate in Aviation Hospitality – Higher Institute for Tourism and Hotels (CAH) 	*12/2024 – 02/2025*
+* #### Certificate in Aviation Hospitality – Higher Institute for Tourism and Hotels (CAH) 	*12/2024 – 02/2025*
 
-#### Certificate in In-Flight Food and Beverage – Higher Institute for Tourism and Hotels (CAH)	 *2022*
+* #### Certificate in In-Flight Food and Beverage – Higher Institute for Tourism and Hotels (CAH)	 *2022*
 
-#### Assistant Chef – Holiday Inn (ACHI)	*2019*
+* #### Assistant Chef – Holiday Inn (ACHI)	*2019*
 
 ## Languages
 **Arabic**: Native
