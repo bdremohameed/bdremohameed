@@ -1,4 +1,4 @@
-# I'm BADR
+#                                                                               I'm BADR
 
 A creative graphic designer specializing in designing print and digital advertising and publicity materials. I have over 3 years of experience in this field, and I am proficient in designing 3D elements that add realism and distinction to designs. In addition to my creative skills, I have in-depth knowledge of Microsoft Office programs, which enables me to manage and organize projects with high efficiency. My extensive experience in the field of computers and their solutions enables me to overcome technical challenges and deliver high-quality designs on time. I am always looking for opportunities to develop my skills and contribute to achieving companies’ goals through attractive and effective designs.
 
