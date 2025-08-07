@@ -1,10 +1,10 @@
 # Badr Ibrahim Muhammad
-Fayoum , Egypt |  +201112162908   |  
+Fayoum , Egypt |  +201069913150   |  
 
 Contact & bdr.e.mohameed@gmail.com | www.behance.net/bdr_e_mohameed
 
-## Professional Summary
-A creative graphic designer specializing in designing print and digital advertising and publicity materials. I have over 3 years of experience in this field, and I am proficient in designing 3D elements that add realism and distinction to designs. In addition to my creative skills, I have in-depth knowledge of Microsoft Office programs, which enables me to manage and organize projects with high efficiency. My extensive experience in the field of computers and their solutions enables me to overcome technical challenges and deliver high-quality designs on time. I am always looking for opportunities to develop my skills and contribute to achieving companies’ goals through attractive and effective designs.
+## نبـــذه مختصــــرة
+مصمم جرافيك مبدع يمتلك أكثر من 3 سنوات من الخبرة في الإعلانات المطبوعة والرقمية. ماهر في استخدام العناصر ثلاثية الأبعاد وأدوات مايكروسوفت أوفيس، ويقدّم تصاميم عالية الجودة في الوقت المحدد. دائم السعي للتطوير والمساهمة في مشاريع بصرية مؤثرة.
 
 ##  Skills
 ### Technical Skills :
