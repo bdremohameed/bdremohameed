@@ -3,24 +3,23 @@ Fayoum , Egypt |  +201069913150   |
 
 Contact & bdr.e.mohameed@gmail.com | www.behance.net/bdr_e_mohameed
 
-## نبـــذه مختصــــرة
-مصمم جرافيك مبدع يمتلك أكثر من 3 سنوات من الخبرة في الإعلانات المطبوعة والرقمية. ماهر في استخدام العناصر ثلاثية الأبعاد وأدوات مايكروسوفت أوفيس، ويقدّم تصاميم عالية الجودة في الوقت المحدد. دائم السعي للتطوير والمساهمة في مشاريع بصرية مؤثرة.
+## من انـــا ؟
+انا مصمم جرافيك مبدع يمتلك أكثر من 3 سنوات من الخبرة في الإعلانات المطبوعة والرقمية. ماهر في استخدام العناصر ثلاثية الأبعاد وأدوات مايكروسوفت أوفيس، ويقدّم تصاميم عالية الجودة في الوقت المحدد. دائم السعي للتطوير والمساهمة في مشاريع بصرية مؤثرة.
 
-##  Skills
-### Technical Skills :
-* **Proficient in Adobe Creative Suite** (Photoshop, Illustrator, InDesign, etc.)
-* **Proficient in Microsoft Office Suite** (Word, Excel, PowerPoint, Outlook)
-* **Highly skilled in computer operations and task management.**
+##  المهـــــارات
+### المهارات الفنيـــة :
+* **إجادة استخدام مجموعة برامج Adobe Creative Suite** (Photoshop، Illustrator، InDesign، إلخ.)
+* **إجادة استخدام مجموعة برامج مايكروسوفت أوفيس** (Word، Excel، PowerPoint، Outlook)
+* **ذو مهارة عالية في عمليات الكمبيوتر وإدارة المهام.**
 
-### Interpersonal & Communication Skills :
-* Excellent communication and customer interaction skills
-* Proven ability to engage customers and build rapport
-* Strong teamwork and collaboration abilities
-* Adaptable and quick learner 
-* Detail-oriented and committed to delivering high-quality work
-* Creative problem-solver
+### المهارات الشخصـــية :
+* مهارات ممتازة في التواصل والتفاعل مع العملاء
+*  قدرات قوية على العمل الجماعي والتعاون
+* قابل للتكيف وسريع التعلم
+* دقيق في التفاصيل وملتزم بتقديم عمل عالي الجودة
+* تقديم حلول إبداعية للمشكلات
 
-##  Experience
+##  الخبـــرات
 ***Adobe company*** - Tenth District - Nasr City , Egypt
 **Graphic designer**	 01/2021 – 02/2022
 **Best designer course**
