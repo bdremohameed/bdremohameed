@@ -1,5 +1,5 @@
 # Badr Ibrahim Muhammad
-Fayoum , Egypt |  +201069913150   |  
+الفيوم، مصر |  +201069913150   |  
 
 Contact & bdr.e.mohameed@gmail.com | www.behance.net/bdr_e_mohameed
 
@@ -19,51 +19,36 @@ Contact & bdr.e.mohameed@gmail.com | www.behance.net/bdr_e_mohameed
 * دقيق في التفاصيل وملتزم بتقديم عمل عالي الجودة
 * تقديم حلول إبداعية للمشكلات
 
-##  الخبـــرات
-***Adobe company*** - Tenth District - Nasr City , Egypt
-**Graphic designer**	 01/2021 – 02/2022
-**Best designer course**
+##  الــدورات التـدريبية
+***دورة أدوبي*** - الحي العـــاشر - مدينــــة نصر ، القاهــرة
+**دورة أفضل مصـــمم**	 01/2021 – 02/2023
 
-***Hotel Marketing and Tourism & Travel*** – 6 October, Egypt
-**Junior trainee**	 12/2024 – 02/2025
+***التســـويق الفندقي والسيــاحة والســفر" دورة جامعــية"*** – 6 أكتـــــوبر ، الجـيزة
+**متـــــدرب**	 12/2024 – 02/2025
 
-As an Intern in the Hotel Marketing Department, I supported various marketing initiatives, including content creation for social media
-and other platforms. I also assisted with market research and analysis to inform marketing strategies.
+بصفتي متدربًا في قسم تسويق الفنادق، دعمتُ العديد من مبادرات التسويق، بما في ذلك إنشاء محتوى لوسائل التواصل الاجتماعي وغيرها من المنصات. كما ساعدتُ في أبحاث السوق وتحليلها لتوجيه استراتيجيات التسويق.
 
-***Hospitality and Aviation Training***  - 6 October, Egypt
-**Junior trainee**	 2022 
+***تدريـــــــب الضيـافة الجويــــة***  – 6 أكتـــــوبر ، الجـيزة
+**متـــــدرب**	 2022 
+المعهد العالي للسياحة والفنادق (HITH) – 6 أكتوبر، مصر
 
-Higher Institute of Tourism and Hotels (HITH) – 6 October , Egypt
-
-***Hotel Assistant Chef  – Tenth District*** - Nasr City , Egypt
-**Assistant Chef**	2019
-
-Throughout my 3rd to 5th years of hotel secondary school, I progressively developed my culinary skills through an intensive
-internship at Holiday Inn Hotelgained practical experience in all aspects of kitchen operations, from basic food preparation to maintaining
-the highest standards of hygiene and safety.
+***مساعد شيف فندق – الحي العاشر*** - مدينة نصر، مصر
+**مساعد طاهٍ** 2019
+خلال سنواتي الثالثة والخامسة في المدرسة الثانوية الفندقية، طورت مهاراتي في الطهي تدريجيًا من خلال فترة تدريب مكثفة في فندق هوليداي إن، واكتسبت خبرة عملية في جميع جوانب عمليات المطبخ، من إعداد الطعام الأساسي إلى الحفاظ على أعلى معايير النظافة والسلامة.
 
 
-## Education
-***Bachelor’s Hospitality Management***	10/2022
-
-**Higher Institute of Tourism and Hotels**– 6 October , Egypt
-
-*I am currently working on my graduation project (fast food restaurant recipes called Crunch)*
+## التعـــــــليم
+***بكالوريوس سياحة وفنادق "قـــسم إدارة الضيافة"*** خريـــــج 06/2025
 
 
-##  Certifications
 
-* ***Graphic Design and Visual Identity***  – Adobe (**GDVI**)	01/2021 – 02/2022
+##  الشهــــــادات
 
-* ***University Hotel Marketing*** – Higher Institute for Tourism and Hotels (**UHM**)	 *12/2024 – 02/2025*
-
-* ***Certificate in Aviation Hospitality*** – Higher Institute for Tourism and Hotels (**CAH**) 	*12/2024 – 02/2025*
-
-* ***Certificate in In-Flight Food and Beverage*** – Higher Institute for Tourism and Hotels (**CAH**)	 *2022*
-
-* ***Assistant Chef*** – Holiday Inn (ACHI)	*2019*
-
-## Languages
-**Arabic**: Native
-**English**: Secondary language  - *Efficiency is average*
-
+* ***التصميم الجرافيكي والهوية البصرية*** – أدوبي (**GDVI**) 01/2021 – 02/2022
+* ***تسويق الفنادق الجامعية*** – المعهد العالي للسياحة والفنادق (**UHM**) *١٢/٢٠٢٤ – ٠٢/٢٠٢٥*
+* ***شهادة في الضيافة الجوية*** – المعهد العالي للسياحة والفنادق (CAH) *١٢/٢٠٢٤ – ٠٢/٢٠٢٥*
+* ***شهادة في الأطعمة والمشروبات على متن الطائرة*** – المعهد العالي للسياحة والفنادق (CAH) *2022*
+* ***مساعد الشيف*** – فندق هوليداي إن (ACHI) *2019*
+## اللـــغات
+**العربية**: أســـاسية
+**اللغة الإنجليزية**: لغة ثانوية - *الكفاءة متوسطة*
